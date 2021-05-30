@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{E9F6A016-2E51-0BDE-BADE-0AF8BEBF4684}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameOver.cs">
+    <Files>
+      <File FileName="Assets/Player.cs" Line="8" Column="28" />
+      <File FileName="Assets/FallingBlock.cs" Line="23" Column="38" />
+      <File FileName="Assets/Scripts/Spawner.cs" Line="18" Column="6" />
+      <File FileName="Assets/Scripts/Difficulty.cs" Line="6" Column="2" />
+      <File FileName="Assets/Scripts/GameOver.cs" Line="7" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="New Unity Project (1)" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GameOver.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="76200776-1159-4f12-9798-deb977311e92" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
